@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "pjproject-ios",
             url: "https://github.com/ramden/pjsip2/blob/f97e5d6fed321ccd3f8eb2fee1980f33d7cc7467/download/2.12.1.1/libpjproject.xcframework.zip",
-            checksum: "8e41279534b9cd7efa2a9a791d896961254c19ca91311804327e4dbaa5341a44"
+            checksum: "7850773a7d7ca830618c486535a65f35efb09919ab54c07567ab5a02d68dd3fe"
         ),
     ]
 )
