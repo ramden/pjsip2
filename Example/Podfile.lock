@@ -1,0 +1,23 @@
+PODS:
+  - OpenSSL-Universal (1.0.1.k)
+  - pjproject-ios (0.1):
+    - OpenSSL-Universal (= 1.0.1.k)
+
+DEPENDENCIES:
+  - pjproject-ios (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OpenSSL-Universal
+
+EXTERNAL SOURCES:
+  pjproject-ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OpenSSL-Universal: 5b864c8eb334c8e78f44e4b2eb294ee2c1891c23
+  pjproject-ios: 62f48eea359941deb00e051e475f6dbbf40197ed
+
+PODFILE CHECKSUM: 67495f677a1024ef29630b940b74cb0ffeaa168a
+
+COCOAPODS: 1.5.3
